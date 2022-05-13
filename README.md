@@ -1,6 +1,9 @@
+<h1 align="center"> printf("Hello Woogie World");</h1>
+
+
 
 <cnter> 주요스택 </center>
-
+<div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -12,5 +15,8 @@
 
  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<div>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={jeonguk29}&layout=compact
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonguk29)](https://github.com/jeonguk29/github-readme-stats)
+
+

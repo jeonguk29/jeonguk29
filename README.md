@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonguk29)](https://github.com/jeonguk29/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonguk29&show_icons=true&theme=github_dark)
 
 

@@ -21,8 +21,7 @@
 
  ![KakaoTalk_20220518_224358609](https://user-images.githubusercontent.com/54401641/169054996-3e4db505-41ef-4053-a19a-f1d079ffd8e8.jpg)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonguk29&show_icons=true&theme=github_dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonguk29&show_icons=true&theme=tokyonight)
 
 
 

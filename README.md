@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <div>
 
-[![Video Label](http://img.youtube.com/vi/h-ij1wSNjT8/0.jpg)](https://youtu.be/h-ij1wSNjT8)
   
  ![KakaoTalk_20220518_224358609](https://user-images.githubusercontent.com/54401641/169054996-3e4db505-41ef-4053-a19a-f1d079ffd8e8.jpg)
 

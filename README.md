@@ -2,7 +2,7 @@
   
 <h1 align="center"> printf("I am a developer who develops and provides better services than users expect!.");</h1>
 <h3 align="center"> Contact method: (Instagram => aloe_jk)</h2>
-<h3 align="center"> On the way to learning and growing</h2>
+<h3 align="center"> I am on the road of learning and growing.</h2>
 
 
 <cnter> 주요스택 </center>

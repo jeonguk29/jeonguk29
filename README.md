@@ -1,7 +1,7 @@
 
   
-<h1 align="center"> printf("I am a developer who develops and provides better services than users expect!.");</h1>
-<h3 align="center"> I am on the road of learning and growing.</h2>
+<h1 align="center"> 개발의 푹 빠지다.</h1>
+<h3 align="center"> 저의 갤러리에 오신 것을 환영합니다!</h2>
 
 
 <cnter> 주요스택 </center>
@@ -28,7 +28,7 @@
 <div>
 
   
-![KakaoTalk_Image_2023-01-01-11-17-09](https://user-images.githubusercontent.com/54401641/210173735-dabbbd26-682b-480e-a4f3-a947629b041c.jpeg)
+![KakaoTalk_Photo_2024-02-15-23-45-41 002](https://github.com/jeonguk29/jeonguk29/assets/54401641/737ea675-2ac8-4857-bd5c-abf6235975a4)
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonguk29&show_icons=true&theme=github_dark)

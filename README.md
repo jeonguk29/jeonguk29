@@ -28,7 +28,7 @@
 <div>
 
   
-![KakaoTalk_Photo_2024-02-15-23-45-41 002](https://github.com/jeonguk29/jeonguk29/assets/54401641/737ea675-2ac8-4857-bd5c-abf6235975a4)
+<img src="https://github.com/jeonguk29/jeonguk29/assets/54401641/737ea675-2ac8-4857-bd5c-abf6235975a4" width="300" height="400" />
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonguk29&show_icons=true&theme=github_dark)

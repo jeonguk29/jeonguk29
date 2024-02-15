@@ -1,6 +1,6 @@
 
   
-<h1 align="center"> 개발의 푹 빠지다.</h1>
+<h1 align="center"> 개발의 푹 빠지다. 🏊🏻</h1>
 <h3 align="center"> 저의 갤러리에 오신 것을 환영합니다!</h2>
 
 
@@ -28,7 +28,7 @@
 <div>
 
   
-<img src="https://github.com/jeonguk29/jeonguk29/assets/54401641/737ea675-2ac8-4857-bd5c-abf6235975a4" width="300" height="400" />
+<img src="https://github.com/jeonguk29/jeonguk29/assets/54401641/737ea675-2ac8-4857-bd5c-abf6235975a4" width="350" height="480" />
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonguk29&show_icons=true&theme=github_dark)

@@ -1,6 +1,6 @@
 
   
-<h1 align="center"> 개발의 푹 빠지다. 🏊🏻</h1>
+<h1 align="center"> 개발에 푹 빠지다. 🏊🏻</h1>
 <h3 align="center"> 저의 갤러리에 오신 것을 환영합니다!</h2>
 
 

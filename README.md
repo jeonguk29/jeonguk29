@@ -1,6 +1,6 @@
 
   
-**혼자 잘하는 개발자 보다, 같이 일하고 싶은 개발자가 되고 싶은 iOS 개발자 우기입니다. 😸**<Br>
+<h3>혼자 잘하는 개발자 보다, 같이 일하고 싶은 개발자가 되고 싶은 iOS 개발자 우기입니다. 😸</h3>
 
 
 * * *
@@ -33,7 +33,7 @@
 
 - 하늘이 노래 : 실시간 위치를 기반으로 날씨를 파악하고 날씨에 어울리는 플레이리스트를 불러와 추천해 주는 앱입니다.
   - 기간 : 2023.11 (1주일 단기 프로젝트)
-  - [하늘이 노래 :  Repository](https://github.com/APP-iOS3rd/PJ2T1_WeatherPlaylist?tab=readme-ov-file)
+  - [하늘이 노래 :  Repository](https://github.com/APP-iOS3rd/PJ2T1_WeatherPlaylist?tab=readme-ov-file)<br><br>
 
 
 

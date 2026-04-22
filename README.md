@@ -1,42 +1,42 @@
 
-  
-<h3>혼자 잘하는 개발자 보다, 같이 일하고 싶은 개발자가 되고 싶은 iOS 개발자 우기입니다. 😸</h3>
+<div align="center">
+  <h3>앱 안정성과 완성도를 집요하게 고민하는 iOS 개발자 정정욱입니다. 😸</h3>
+</div>
 
+<div align="center">
+  <a href="https://hits.sh/github.com/jeonguk29/">
+    <img src="https://hits.sh/github.com/jeonguk29.svg?label=Hello&color=007ec6&style=flat-square" alt="Hits">
+  </a>
+</div>
 
-* * *
-### Experience
-- 2023.01 ~ 2023.04 앨런 Swift 문법 마스터 스쿨 17기
-- 2023.09 ~ 2024.02 멋쟁이사자처럼 앱 스쿨 iOS 3기
-- 2024.05 ~ 2024.09 수익형 앱 런칭 동아리 CMC iOS Challenger
-- 2024.09 ~ ing : 전국 최대 규모의 대학생 연합 IT 벤처 창업 동아리 SOPT iOS YB
+---
 
-### Award
--  2023학년도 전공연계 SDGs 실천 챌린지 : 프로젝트 우수상 
--  2024 멋쟁이사자처럼 앱 스쿨 : iOS 3기 대상
+## About Me
+- 사용자에게 보이는 기능 구현을 넘어, 안정적인 인증 흐름 · 비동기 처리 · 네트워크 구조 개선에 집중합니다.
+- iOS 앱의 성능, 구조, 유지보수성을 꾸준히 고민하며 더 나은 사용자 경험으로 연결해 왔습니다.
+- 혼자 잘 만드는 개발자보다, 함께 일하고 싶은 개발자가 되는 것을 중요하게 생각합니다.
 
-### Project
-- SnapFit : 사용자가 추구하는 분위기에 맞게 스냅 사진 작가를 매칭하고, 작가분들의 다양한 상품을 판매할 수 있는 이커머스 앱입니다
-  - 기간 : 2024.05 ~ ing   
-  - [SnapFit : App Store](https://apps.apple.com/kr/app/snapfit/id6642695481)<br>
-  - [SnapFit :  Repository](https://github.com/Central-MakeUs/SnapFit-iOS) <br><br>
-  
-- MOAH : 실시간 위치 기반으로 해당 위치에서 메모를 남겨 다른 사람과 나의 추억을 기록하고 공유하는 SNS 앱입니다.
-  - 기간 : 2023.12 ~ 2024.02   
-  - [MOAH : App Store](https://apps.apple.com/kr/app/%EB%AA%A8%EC%95%84-moah/id6475282904)<br>
-  - [MOAH :  Repository](https://github.com/APP-iOS3rd/PJ3T2_Mymory?tab=readme-ov-file)<br><br>
+## Projects
 
+| Icon | Project | Summary | Link |
+|---|---|---|---|
+| <img src="./assets/icons/dplay-rounded.png" width="56" height="56"> | **D-Play** | 음악 큐레이션 SNS | [GitHub](https://github.com/DIGGING-PLAY/DPlay-iOS) · [App Store](https://apps.apple.com/kr/app/%EB%94%94%ED%94%8C%EB%A0%88%EC%9D%B4-dplay/id6758450197) |
+| <img src="./assets/icons/yahoostockskit-rounded.png" width="56" height="56"> | **YahooStocksKit** | 주식 데이터 SPM | [GitHub](https://github.com/jeonguk29/YahooStocksKit) |
+| <img src="./assets/icons/memento-rounded.png" width="56" height="56"> | **Memento** | AI 일정 관리 앱 | [GitHub](https://github.com/dev-memento/memento-iOS) |
+| <img src="./assets/icons/snapfit-rounded.png" width="56" height="56"> | **SnapFit** | 스냅 작가 매칭 앱 | [GitHub](https://github.com/Central-MakeUs/SnapFit-iOS) · [App Store](https://apps.apple.com/kr/app/snapfit/id6642695481) |
+| <img src="./assets/icons/memoirmate-rounded.png" width="56" height="56"> | **MEMOIR MATE** | 일상 기록 앱 | [GitHub](https://github.com/jeonguk29/Memoir-Mate) · [App Store](https://apps.apple.com/kr/app/memoirmate/id6474548626) |
 
-- MEMOIR MATE : 하루의 일상을 기록하고 공유할 수 있는 라이프스타일 앱입니다. 심리적 안정감을 느낄 수 있도록 색감, 영상 처리 등 UI, UX에 신경을 많이 썼습니다. 
-  - 기간 : 2023.09 ~ 2023.12   
-  - [MEMOIR MATE : App Store](https://apps.apple.com/kr/app/memoir-mate/id6474548626)<br>
-  - [MEMOIR MATE :  Repository](https://github.com/jeonguk29/Memoir-Mate)<br><br>
+## Experience
+- **2026.02 ~ ing** 현직자 중심 IT 동아리 **Mash-Up iOS Team**
+- **2024.09 ~ 2025.07** 전국 최대 규모 대학생 연합 IT 창업 동아리 **SOPT iOS 35기 YB / 36기 OB 수료**
+- **2024.05 ~ 2024.09** 수익형 앱 런칭 동아리 **CMC 15기 iOS Challenger**
+- **2023.09 ~ 2024.02** **멋쟁이사자처럼 앱 스쿨 iOS 3기**
 
+## Award
+- **2024** 멋쟁이사자처럼 앱 스쿨 iOS 3기 **최종 대상(1위)**
+- **2023** 전공연계 SDGs 실천 챌린지 **프로젝트 우수상**
 
-- 하늘이 노래 : 실시간 위치를 기반으로 날씨를 파악하고 날씨에 어울리는 플레이리스트를 불러와 추천해 주는 앱입니다.
-  - 기간 : 2023.11 (1주일 단기 프로젝트)
-  - [하늘이 노래 :  Repository](https://github.com/APP-iOS3rd/PJ2T1_WeatherPlaylist?tab=readme-ov-file)<br><br>
-
-
+## GitHub Stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonguk29&show_icons=true&theme=github_dark)
 

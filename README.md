@@ -3,11 +3,6 @@
   <h3>앱 안정성과 완성도를 집요하게 고민하는 iOS 개발자 정정욱입니다. 😸</h3>
 </div>
 
-<div align="center">
-  <a href="https://hits.sh/github.com/jeonguk29/">
-    <img src="https://hits.sh/github.com/jeonguk29.svg?label=Hello&color=007ec6&style=flat-square" alt="Hits">
-  </a>
-</div>
 
 ---
 
